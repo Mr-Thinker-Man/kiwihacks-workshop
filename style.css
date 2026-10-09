@@ -1,0 +1,15 @@
+span {
+    color: crimson;
+}
+
+body {
+    text-align: center;
+    font-family: cursive;
+    background: rgb(250, 245, 190);
+}
+
+img {
+    border-radius: 300pt;
+    scale: 75%
+    
+}
